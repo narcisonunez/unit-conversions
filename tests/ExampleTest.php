@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Dellabit\UnitConversions\Tests;
 
 use PHPUnit\Framework\TestCase;
 
